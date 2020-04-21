@@ -17,7 +17,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 
-@CrossOrigin
+@CrossOrigin//para fazer chamada do mesmo host
 @RestController
 public class Controller {
 
